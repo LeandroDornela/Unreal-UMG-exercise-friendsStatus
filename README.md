@@ -9,6 +9,10 @@ Connection/Disconnection simulation and test data with initial friends status se
 ![graph](https://github.com/LeandroDornela/Unreal-UMG-exercise-friendsStatus/blob/main/Doc/screenshot.png)
 
 
-The following graph gives an overview of the project classes relationships.
+The following diagram gives an overview of the project classes relationships.
 
 ![graph](https://github.com/LeandroDornela/Unreal-UMG-exercise-friendsStatus/blob/main/Doc/graph.jpg)
+
+Removing the testing and simulation related classes we have a simpler diagram.
+
+![graph](https://github.com/LeandroDornela/Unreal-UMG-exercise-friendsStatus/blob/main/Doc/UnrealNotes-UMG-base.jpg)
